@@ -1,0 +1,28 @@
+body {
+	font-family:arial;
+}
+img {
+	
+	margin:10px;
+	border:1px #000000 solid;
+	padding:5px;
+	max-width:150px;
+	max-height:200px;	
+}
+
+div.member {
+	float:left;
+	background-color: #cccccc;
+}
+
+div#Zaid {
+	background-color:#ff0000;
+}
+
+img:hover{
+	max-width:180px;
+
+}
+
+div.member:hover a{color:yellow;
+}

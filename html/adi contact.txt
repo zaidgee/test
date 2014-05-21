@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Adi's Details</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body bgcolor = "turquoise" text = "white">
+
+
+<h1 class = "headline">Adi's Details</h1>
+
+
+<div class="member" id="Adi">
+	<img  src = "05d2df8a8a0a55e308a01e72f06ed06b.jpeg"  alt = "Adi"><br>
+	<a href = "https://twitter.com/SoapSudTycoon">View Adi's Tweets</a>
+	<br>
+	<a href = "">Contact Adi</a>
+</div>
+
+
+</body>
